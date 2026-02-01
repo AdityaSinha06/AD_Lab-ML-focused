@@ -1,0 +1,40 @@
+Python + ML - learning : 
+
+part1: 
+basic arithmetic operations
+control and conditional structures
+looping - for , while loops
+user input
+strings
+integers
+floating values
+typecasting
+
+part2:
+strings + inbuilt functions
+list + boolean Variables inbuilt functions
+sets - inbuilt functions
+tuples - inbuilt functions
+functions
+lambda functions
+iterators and generators
+-exceptions handling & imports libraries
+
+part3: OOPs
+-classes
+-object
+-method
+-inheritance
+-polymorphism
+-data abstraction
+-encapsulation
+
+part4: libraries 
+-numpy
+-pandas
+-matplotlib
+-seaborn
+-scipy
+
+----> these 'll get you started with python
+--> Go for specialization
